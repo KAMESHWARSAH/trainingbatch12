@@ -15,3 +15,9 @@ html,body{
 h5{
     color: cadetblue;
 }
+footer{
+    height: 80px ;
+    width: 100%;
+    background: rgb(21, 117, 130);
+    
+}
